@@ -17,7 +17,7 @@ This project is a demonstration of a **News Portal** webpage, created to practic
   - **Custom Properties**: To maintain consistency in the design, using variables for colours, fonts, and other styling aspects.
 
 ## 📂 Project Structure
-
+```
 /assets
 ├── /icons # Icons used in the project
 ├── /images # Images displayed on the webpage
@@ -32,6 +32,7 @@ This project is a demonstration of a **News Portal** webpage, created to practic
 ├── sections.css # Styles for different sections of the webpage
 └── utility.css # Utility classes for grid and spacing
 index.html # The main HTML file for the webpage
+```
 
 ## 💡 How to Use
 
